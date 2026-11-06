@@ -3,7 +3,7 @@
 **Computer Science @ Arizona State University** · B.S. expected May 2028 · GPA 3.88
 I build software that talks to hardware, from rocket flight computers to iOS apps.
 
-🌐 [chalie32.github.io](https://chalie32.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/song-yu-wang-02ab94311) · 📫 charlie32017@gmail.com
+🌐 [chalie32.github.io](https://chalie32.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/song-yu-wang-02ab94311)
 🔎 Open to **software / embedded-systems internships**
 
 ---
